@@ -1,0 +1,5 @@
+Throttle_Position(Manifold)(prc)
+Engine_Load(prc)
+O2_Volts_Bank_1_sensor_2(V)
+Turbo_Boost_&_Vacuum_Gauge(bar)
+driver
